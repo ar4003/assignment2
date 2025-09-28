@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "total_jobs": 12,
+    "categories": [
+      "engineering",
+      "science",
+      "commerce",
+      "education"
+    ],
+    "extraction_date": "2025-09-28 04:55:24"
+  },
+  "categories": {
+    "engineering": [
+      {
+        "job_title": "Graduate Engineer Trainee",
+        "organization": "NUMALIGARH REFINERY LIMITED",
+        "salary": "50000 - 160000",
+        "experience": "Fresher",
+        "qualification": "B.E/B.Tech",
+        "age_limit": "21-30 years",
+        "vacancies": "50",
+        "location": "All India",
+        "category": "engineering"
+      },
+      {
+        "job_title": "Junior Engineer",
+        "organization": "Kerala Public Service Commission",
+        "salary": "9190 - 15780",
+        "experience": "Fresher",
+        "qualification": "B.E/B.Tech (Civil)",
+        "age_limit": "18-32 years",
+        "vacancies": "100",
+        "location": "Kerala",
+        "category": "engineering"
+      },
+      {
+        "job_title": "Assistant Engineer",
+        "organization": "POWERGRID Corporation",
+        "salary": "35000 - 70000",
+        "experience": "1+ Years",
+        "qualification": "B.E/B.Tech",
+        "age_limit": "21-33 years",
+        "vacancies": "500",
+        "location": "Multiple States",
+        "category": "engineering"
+      }
+    ],
+    "science": [
+      {
+        "job_title": "Junior Intelligence Officer",
+        "organization": "Intelligence Bureau",
+        "salary": "25500 - 81100",
+        "experience": "Fresher",
+        "qualification": "B.SC (Mathematics/Physics)",
+        "age_limit": "18-27 years",
+        "vacancies": "25",
+        "location": "All India",
+        "category": "science"
+      },
+      {
+        "job_title": "Research Associate",
+        "organization": "CSIR Labs",
+        "salary": "30000 - 60000",
+        "experience": "Fresher",
+        "qualification": "B.Sc/M.Sc",
+        "age_limit": "21-35 years",
+        "vacancies": "50",
+        "location": "Delhi, Mumbai",
+        "category": "science"
+      },
+      {
+        "job_title": "Laboratory Assistant",
+        "organization": "AIIMS",
+        "salary": "29200 - 92300",
+        "experience": "2+ Years",
+        "qualification": "B.SC (Any)",
+        "age_limit": "18-30 years",
+        "vacancies": "75",
+        "location": "Multiple locations",
+        "category": "science"
+      }
+    ],
+    "commerce": [
+      {
+        "job_title": "Accounts Officer",
+        "organization": "UPSC",
+        "salary": "Level 8 as per 7th CPC",
+        "experience": "Fresher",
+        "qualification": "B.COM/B.COM(Hons)",
+        "age_limit": "21-30 years",
+        "vacancies": "20",
+        "location": "Ladakh",
+        "category": "commerce"
+      },
+      {
+        "job_title": "Bank Manager",
+        "organization": "Bank Of Baroda",
+        "salary": "64820 - 93960",
+        "experience": "2+ Years",
+        "qualification": "B.COM/CA",
+        "age_limit": "21-35 years",
+        "vacancies": "200",
+        "location": "All India",
+        "category": "commerce"
+      },
+      {
+        "job_title": "Junior Clerk",
+        "organization": "Kerala PSC",
+        "salary": "11770 - 28670",
+        "experience": "1+ Years",
+        "qualification": "B.COM",
+        "age_limit": "18-36 years",
+        "vacancies": "150",
+        "location": "Kerala",
+        "category": "commerce"
+      }
+    ],
+    "education": [
+      {
+        "job_title": "Assistant Teacher",
+        "organization": "Delhi Government",
+        "salary": "35400 - 112400",
+        "experience": "Fresher",
+        "qualification": "B.Ed",
+        "age_limit": "21-30 years",
+        "vacancies": "1000",
+        "location": "Delhi",
+        "category": "education"
+      },
+      {
+        "job_title": "High School Teacher",
+        "organization": "Kerala PSC",
+        "salary": "41300 - 87800",
+        "experience": "2+ Years",
+        "qualification": "B.Ed + Subject Degree",
+        "age_limit": "21-42 years",
+        "vacancies": "300",
+        "location": "Kerala",
+        "category": "education"
+      },
+      {
+        "job_title": "Principal",
+        "organization": "Education Department",
+        "salary": "70000 - 150000",
+        "experience": "10+ Years",
+        "qualification": "M.Ed + Teaching Experience",
+        "age_limit": "30-50 years",
+        "vacancies": "25",
+        "location": "Multiple States",
+        "category": "education"
+      }
+    ]
+  },
+  "organizations": {
+    "NUMALIGARH REFINERY LIMITED": [
+      {
+        "job_title": "Graduate Engineer Trainee",
+        "organization": "NUMALIGARH REFINERY LIMITED",
+        "salary": "50000 - 160000",
+        "experience": "Fresher",
+        "qualification": "B.E/B.Tech",
+        "age_limit": "21-30 years",
+        "vacancies": "50",
+        "location": "All India",
+        "category": "engineering"
+      }
+    ],
+    "Kerala Public Service Commission": [
+      {
+        "job_title": "Junior Engineer",
+        "organization": "Kerala Public Service Commission",
+        "salary": "9190 - 15780",
+        "experience": "Fresher",
+        "qualification": "B.E/B.Tech (Civil)",
+        "age_limit": "18-32 years",
+        "vacancies": "100",
+        "location": "Kerala",
+        "category": "engineering"
+      }
+    ],
+    "POWERGRID Corporation": [
+      {
+        "job_title": "Assistant Engineer",
+        "organization": "POWERGRID Corporation",
+        "salary": "35000 - 70000",
+        "experience": "1+ Years",
+        "qualification": "B.E/B.Tech",
+        "age_limit": "21-33 years",
+        "vacancies": "500",
+        "location": "Multiple States",
+        "category": "engineering"
+      }
+    ],
+    "Intelligence Bureau": [
+      {
+        "job_title": "Junior Intelligence Officer",
+        "organization": "Intelligence Bureau",
+        "salary": "25500 - 81100",
+        "experience": "Fresher",
+        "qualification": "B.SC (Mathematics/Physics)",
+        "age_limit": "18-27 years",
+        "vacancies": "25",
+        "location": "All India",
+        "category": "science"
+      }
+    ],
+    "CSIR Labs": [
+      {
+        "job_title": "Research Associate",
+        "organization": "CSIR Labs",
+        "salary": "30000 - 60000",
+        "experience": "Fresher",
+        "qualification": "B.Sc/M.Sc",
+        "age_limit": "21-35 years",
+        "vacancies": "50",
+        "location": "Delhi, Mumbai",
+        "category": "science"
+      }
+    ],
+    "AIIMS": [
+      {
+        "job_title": "Laboratory Assistant",
+        "organization": "AIIMS",
+        "salary": "29200 - 92300",
+        "experience": "2+ Years",
+        "qualification": "B.SC (Any)",
+        "age_limit": "18-30 years",
+        "vacancies": "75",
+        "location": "Multiple locations",
+        "category": "science"
+      }
+    ],
+    "UPSC": [
+      {
+        "job_title": "Accounts Officer",
+        "organization": "UPSC",
+        "salary": "Level 8 as per 7th CPC",
+        "experience": "Fresher",
+        "qualification": "B.COM/B.COM(Hons)",
+        "age_limit": "21-30 years",
+        "vacancies": "20",
+        "location": "Ladakh",
+        "category": "commerce"
+      }
+    ],
+    "Bank Of Baroda": [
+      {
+        "job_title": "Bank Manager",
+        "organization": "Bank Of Baroda",
+        "salary": "64820 - 93960",
+        "experience": "2+ Years",
+        "qualification": "B.COM/CA",
+        "age_limit": "21-35 years",
+        "vacancies": "200",
+        "location": "All India",
+        "category": "commerce"
+      }
+    ],
+    "Kerala PSC": [
+      {
+        "job_title": "Junior Clerk",
+        "organization": "Kerala PSC",
+        "salary": "11770 - 28670",
+        "experience": "1+ Years",
+        "qualification": "B.COM",
+        "age_limit": "18-36 years",
+        "vacancies": "150",
+        "location": "Kerala",
+        "category": "commerce"
+      },
+      {
+        "job_title": "High School Teacher",
+        "organization": "Kerala PSC",
+        "salary": "41300 - 87800",
+        "experience": "2+ Years",
+        "qualification": "B.Ed + Subject Degree",
+        "age_limit": "21-42 years",
+        "vacancies": "300",
+        "location": "Kerala",
+        "category": "education"
+      }
+    ],
+    "Delhi Government": [
+      {
+        "job_title": "Assistant Teacher",
+        "organization": "Delhi Government",
+        "salary": "35400 - 112400",
+        "experience": "Fresher",
+        "qualification": "B.Ed",
+        "age_limit": "21-30 years",
+        "vacancies": "1000",
+        "location": "Delhi",
+        "category": "education"
+      }
+    ],
+    "Education Department": [
+      {
+        "job_title": "Principal",
+        "organization": "Education Department",
+        "salary": "70000 - 150000",
+        "experience": "10+ Years",
+        "qualification": "M.Ed + Teaching Experience",
+        "age_limit": "30-50 years",
+        "vacancies": "25",
+        "location": "Multiple States",
+        "category": "education"
+      }
+    ]
+  },
+  "qualifications": [
+    "B.E/B.Tech",
+    "B.SC",
+    "B.COM",
+    "B.Ed",
+    "M.Sc",
+    "CA"
+  ],
+  "experience_levels": [
+    "Fresher",
+    "1+ Years",
+    "2+ Years",
+    "10+ Years"
+  ],
+  "salary_ranges": [
+    "25000-50000",
+    "50000-100000",
+    "100000+"
+  ],
+  "locations": [
+    "All India",
+    "Delhi",
+    "Kerala",
+    "Mumbai",
+    "Multiple States"
+  ]
+}
